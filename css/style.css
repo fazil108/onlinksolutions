@@ -5,6 +5,10 @@
     --light-black: #212529;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     margin: 0;
     padding: 0;
